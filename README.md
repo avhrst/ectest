@@ -15,8 +15,11 @@ Swagger тестового API: https://pm.minfin.gov.ua/ords/ec/open-api-catal
 * формирование тикетов для разработчиков
 
 ### Параметры для доступа в dev-окружение:
-
 https://pm.minfin.gov.ua/ords/f?p=4550
+
+workspace: ectest
+user: <выдает администратор>
+pass: <администратор выдает одноразовый пароль, который нужно заменить при первом входе>
 
 ### Просмотр каталога доступных объектов 
 SQL Workshop -Object Browser - Synonyms 
